@@ -1,0 +1,2 @@
+# makemerich
+startup
